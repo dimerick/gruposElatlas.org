@@ -1,0 +1,20 @@
+.mbr-company .card-img-top {
+    height: 100%;
+}
+.messages-form{
+    color: red;
+}
+.key-word{
+    background-color: yellow;
+}
+
+ul.pagination{
+    font-size: 1.5em;
+}
+ul.pagination li{
+    display: inline;
+    margin-right: 10px;
+}
+#ext_menu-0 .link {
+    font-size: 1rem;
+}

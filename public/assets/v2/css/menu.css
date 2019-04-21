@@ -1,0 +1,32 @@
+#options-profile ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#options-profile ul li a {
+    background-color:#4a69ab;
+    color:#fff;
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+}
+#options-profile ul {
+    display:none;
+    position:absolute;
+    min-width:100px;
+    margin: 0;
+    padding: 0;
+    z-index: 100;
+}
+/*#options-profile:hover >ul{*/
+    /*display:block;*/
+/*}*/
+#options-profile ul li {
+    position:relative;
+    margin: 0;
+    padding: 0;
+}
+
+#options-profile ul a:hover {
+    background-color:#434343;
+}

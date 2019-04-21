@@ -1,0 +1,15 @@
+[07-Aug-2016 03:16:32 UTC] PHP Warning:  require(/home/atlasdelafecto/public_html/elatlas.org/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/atlasdelafecto/public_html/elatlas.org/index.php on line 21
+[07-Aug-2016 03:16:32 UTC] PHP Fatal error:  require(): Failed opening required '/home/atlasdelafecto/public_html/elatlas.org/../bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/atlasdelafecto/public_html/elatlas.org/index.php on line 21
+[07-Aug-2016 03:17:28 UTC] PHP Warning:  require(/home/atlasdelafecto/public_html/elatlas.org/../../el_atlas/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/atlasdelafecto/public_html/elatlas.org/index.php on line 21
+[07-Aug-2016 03:17:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/atlasdelafecto/public_html/elatlas.org/../../el_atlas/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/atlasdelafecto/public_html/elatlas.org/index.php on line 21
+[08-Aug-2016 12:45:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16512 bytes) in /home/atlasdelafecto/el_atlas/vendor/eventviva/php-image-resize/src/ImageResize.php on line 105
+[08-Aug-2016 12:55:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16512 bytes) in /home/atlasdelafecto/el_atlas/vendor/eventviva/php-image-resize/src/ImageResize.php on line 105
+[08-Aug-2016 12:59:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16512 bytes) in /home/atlasdelafecto/el_atlas/vendor/eventviva/php-image-resize/src/ImageResize.php on line 105
+[12-Feb-2017 18:05:06 UTC] PHP Fatal error:  Call to undefined function ok() in /home/atlasdelafecto/el_atlas/app/Http/routes.php on line 40
+[12-Feb-2017 18:05:20 UTC] PHP Fatal error:  Call to undefined function Ok() in /home/atlasdelafecto/el_atlas/app/Http/routes.php on line 40
+[12-Feb-2017 21:59:34 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/atlasdelafecto/el_atlas/app/Http/routes.php on line 38
+[21-Mar-2017 22:08:56 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/atlasdelafecto/el_atlas/app/Http/Controllers/v2Controller.php on line 83
+[21-Mar-2017 22:10:37 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/atlasdelafecto/el_atlas/app/Http/Controllers/v2Controller.php on line 83
+[21-Mar-2017 22:11:23 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/atlasdelafecto/el_atlas/app/Http/Controllers/v2Controller.php on line 83
+[21-Mar-2017 22:12:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/atlasdelafecto/el_atlas/app/Http/Controllers/v2Controller.php on line 83
+[21-Mar-2017 22:13:04 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/atlasdelafecto/el_atlas/app/Http/Controllers/v2Controller.php on line 83
