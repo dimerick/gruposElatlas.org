@@ -98,14 +98,14 @@ class GruposController extends Controller {
 					);
 				}
 			}
-//			$datCuenta = Cuenta::findOrFail($email);
-//			$datUser = $datCuenta['attributes'];
-//			Mail::send('v2/email_conf', ['nombre' => $datUser['nombre'], 'email' => $datUser['email'], 'cod_act' => $datUser['confirmation_code']], function($message) use ($email, $nombre)
-//			{
-//
-//				$message->to($email, $nombre)->from('noresponder@elatlas.org', 'El Atlas')->subject('Codigo de activación!');
-//			});
-//			$user = $this->datUser;
+			$datCuenta = Cuenta::findOrFail($email);
+			$datUser = $datCuenta['attributes'];
+			/*Mail::send('v2/email_conf', ['nombre' => $datUser['nombre'], 'email' => $datUser['email'], 'cod_act' => $datUser['confirmation_code']], function($message) use ($email, $nombre)
+			{
+
+				$message->to($email, $nombre)->from('noresponder@elatlas.org', 'El Atlas')->subject('Codigo de activación!');
+			});*/
+			$user = $this->datUser;
 		return view('v2/conf_registro', compact('email', 'user'));
 		}else{
 			return("Se produjo un error al crear el registro");
