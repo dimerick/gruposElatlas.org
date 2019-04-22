@@ -35,20 +35,14 @@
 <div id="info-el-atlas" class="hide">
   <div class="content-modal">
     <div class="content-group">
-      <h2>Quiénes somos</h2>
-      <p>Somos una plataforma que conecta los procesos sociales alrededor del mundo, a través de la geografía, promoviendo la participación y la generación de conocimiento en diversos temas.</p>
+      <h2>Red ElAtlas</h2>
+      <p>Red Elatlas es una base de datos espacial para la visibilización y conexión de grupos comunitarios de base alrededor del mundo, a través de tecnologías geoespaciales open-source. A través de esta plataforma promovemos la participación y la coproducción de conocimiento en diversos temas.</p>
     </div>
-    <div class="content-group">
-      <h2>¿Como?</h2>
-      <ul><li><span>Vivencial:</span>  Posibilitamos el intercambio de saberes para potencializar el quehacer y sentir de los procesos sociales desde su propia experiencia.</li>
-        <li><span>Investigativo:</span> Promovemos la generación de conocimiento conectando los procesos sociales, académicos y expertos para la transformación social.</li>
-        <li><span>Educativo:</span> Fomentamos el desarrollo de procesos formativos para crear conciencia alrededor de las relaciones entre el ser humano y su entorno.</li>
-      </ul>
-    </div>
+    
     <div class="content-group">
       <h2>Contactenos</h2>
       <p><i class="fa fa-map-marker icon-footer"></i> Philadelphia, USA | Medellín, Colombia</p>
-      <p><i class="fa fa-envelope icon-footer"></i><a href="mailto:info@elatlas.org"> <b>info@elatlas.org </b></a></p>
+      <p><i class="fa fa-envelope icon-footer"></i><a href="mailto:info@elatlas.org"> <b>info@elatlas.co </b></a></p>
     </div>
     <div class="content-group info-db">
       <p>La base de datos de Elatlas está basada sobre un trabajo apoyado por National Science Foundation" (la fundación nacional de ciencia en los EE.UU) bajo la subvención #1452541.<br> Las opiniones, resultados, conclusiones y recomendaciones expresadas en este sitio web son responsabilidad del autor y no necesariamente reflejan las visiones de "National Science Foundation" (la fundación nacional de ciencia en los EE.UU).</p>
@@ -60,7 +54,7 @@
 
 
 <div id="top-options">
-    <span>ElAtlas - Geografía viva y afectiva</span>
+    <span>Red ElAtlas - Geografía viva y afectiva</span>
     <a href="/unirme" class="myButton">Registrarme</a>
 </div>
 <section id="main-content">

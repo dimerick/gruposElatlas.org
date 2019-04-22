@@ -224,3 +224,6 @@ img#logo{
     display: none;
   }
 }
+ul.menu li a{
+text-align: center;
+}
